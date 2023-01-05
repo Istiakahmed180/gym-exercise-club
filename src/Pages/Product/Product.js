@@ -4,13 +4,13 @@ const Product = ({ product }) => {
   const { image, name, details, time, age } = product;
   return (
     <div>
-      <div className="card w-full bg-white shadow-xl">
+      <div className="card w-full h-96 bg-white shadow-xl">
         <figure className="px-4 pt-4 pb-0">
           <img src={image} alt="Shoes" className="rounded-xl w-96 h-32" />
         </figure>
         <div className="p-5">
           <h2 className="font-semibold text-xl">{name.slice(0, 14)}</h2>
-          <p className="my-2 font-mono text-gray-500">{details.slice(0, 50)}</p>
+          <p className="my-2 text-gray-500">{details.slice(0, 50)}</p>
           <p className="">
             For Age: <span className="font-bold">{age}</span>
           </p>
