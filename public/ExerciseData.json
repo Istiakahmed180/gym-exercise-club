@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bowflex-selecttech-552-dumbbells-curl-bench-lifestyle-1628697141.jpg?resize=480:*",
+        "name":"Bowflex SelectTech 552 Dumbbell - Black",
+        "details":"Each dumbbell adjust from 5 to 52.5 lb. in 2.5 lb. increments up to 25 lb.",
+        "age":"20-25",
+        "time":"25 Min"
+    },
+    {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/I/51iZy6E8r+L._AC_SL1001_.jpg",
+        "name":"TOSAMC Durable Wrist Weights",
+        "details":"MAKE SPORT EASIER | With the TOSAMC bracelet, Burning calories in the time when you walking/working and any Daily activities. Make sport easier for you.",
+        "age":"20-25",
+        "time":"30 Min"
+    },
+    {
+        "id":3,
+        "image":"https://m.media-amazon.com/images/I/71cQWAV1EZS._AC_SY450_.jpg",
+        "name":"Fitness Reality SuperMax Weight Bench",
+        "details":"Smooth 12 position adjustable backrest by utilizing 2 position front leg adjustment. Backrest adjusts to -20 degree decline to +80 degree incline angles. Flat position height: 17.5. Backrest thickness: 1.75",
+        "age":"20-30",
+        "time":"45 Min"
+    },
+    {
+        "id":4,
+        "image":"https://post.healthline.com/wp-content/uploads/2019/06/Female_Trampoline_732x549-thumbnail-1.jpg",
+        "name":"Jumpsport 250 In Home Cardio Fitness Rebounder",
+        "details":"Sturdy and Stable: Black powder-coated 39-inch frame has arched legs that provide additional stability, resist tipping, and make for easy storage. User weight rating is 250 pounds, and trampoline comes almost fully assembled to get you bouncing quickly.",
+        "age":"20-27",
+        "time":"35 Min"
+    },
+    {
+        "id":5,
+        "image":"https://media.wired.com/photos/620d728e147c464202612d7e/125:94/w_2375,h_1786,c_limit/Gear-Peloton-FAMILYROOM_BIKE_WIDE.jpg",
+        "name":"Peloton Bike",
+        "details":"The Peloton bike brings you the most convenient and immersive indoor cycling experience, streaming daily live classes from our NYC studio directly into your home. You'll have 24-hour access to studio cycling classes available to your entire household.",
+        "age":"20-25",
+        "time":"20 Min"
+    },
+    {
+        "id":6,
+        "image":"https://www.garagegymreviews.com/wp-content/uploads/woman-using-NordicTrack-RW900-Rower-looking-at-monitor.jpg",
+        "name":"Rowing Machine",
+        "details":"NON-SLIP FOOT PEDALS: Textured non-slip foot pedals will ensure safe footing during the most demanding and vigorous workouts. Foot straps keep your feet saddled with so you can focus on the workout without feeling unbalanced.",
+        "age":"20-30",
+        "time":"25 Min"
+    }
+]
