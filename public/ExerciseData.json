@@ -5,7 +5,7 @@
         "name":"Bowflex SelectTech 552 Dumbbell - Black",
         "details":"Each dumbbell adjust from 5 to 52.5 lb. in 2.5 lb. increments up to 25 lb.",
         "age":"20-25",
-        "time":"25 Min"
+        "time":"25"
     },
     {
         "id":2,
@@ -13,7 +13,7 @@
         "name":"TOSAMC Durable Wrist Weights",
         "details":"MAKE SPORT EASIER | With the TOSAMC bracelet, Burning calories in the time when you walking/working and any Daily activities. Make sport easier for you.",
         "age":"20-25",
-        "time":"30 Min"
+        "time":"30"
     },
     {
         "id":3,
@@ -21,7 +21,7 @@
         "name":"Fitness Reality SuperMax Weight Bench",
         "details":"Smooth 12 position adjustable backrest by utilizing 2 position front leg adjustment. Backrest adjusts to -20 degree decline to +80 degree incline angles. Flat position height: 17.5. Backrest thickness: 1.75",
         "age":"20-30",
-        "time":"45 Min"
+        "time":"45"
     },
     {
         "id":4,
@@ -29,7 +29,7 @@
         "name":"Jumpsport 250 In Home Cardio Fitness Rebounder",
         "details":"Sturdy and Stable: Black powder-coated 39-inch frame has arched legs that provide additional stability, resist tipping, and make for easy storage. User weight rating is 250 pounds, and trampoline comes almost fully assembled to get you bouncing quickly.",
         "age":"20-27",
-        "time":"35 Min"
+        "time":"35"
     },
     {
         "id":5,
@@ -37,7 +37,7 @@
         "name":"Peloton Bike",
         "details":"The Peloton bike brings you the most convenient and immersive indoor cycling experience, streaming daily live classes from our NYC studio directly into your home. You'll have 24-hour access to studio cycling classes available to your entire household.",
         "age":"20-25",
-        "time":"20 Min"
+        "time":"20"
     },
     {
         "id":6,
@@ -45,6 +45,6 @@
         "name":"Rowing Machine",
         "details":"NON-SLIP FOOT PEDALS: Textured non-slip foot pedals will ensure safe footing during the most demanding and vigorous workouts. Foot straps keep your feet saddled with so you can focus on the workout without feeling unbalanced.",
         "age":"20-30",
-        "time":"25 Min"
+        "time":"25"
     }
 ]

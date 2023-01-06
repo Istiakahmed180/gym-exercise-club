@@ -1,6 +1,6 @@
 import React from "react";
 
-const Product = ({ product }) => {
+const Product = ({ product, handleExerciseTime }) => {
   const { image, name, details, time, age } = product;
   return (
     <div>
@@ -15,10 +15,13 @@ const Product = ({ product }) => {
             For Age: <span className="font-bold">{age}</span>
           </p>
           <p className="my-2">
-            The Required: <span className="font-bold">{time}</span>
+            The Required: <span className="font-bold">{time} Min</span>
           </p>
           <div className="">
-            <button className="btn text-white bg-[#905FEF] border-none hover:bg-[#1ab8a3]  w-full">
+            <button
+              onClick={() => handleExerciseTime(product)}
+              className="btn text-white bg-[#905FEF] border-none hover:bg-[#1ab8a3]  w-full"
+            >
               Add to list
             </button>
           </div>
